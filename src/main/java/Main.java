@@ -3,8 +3,8 @@ import java.io.*;
 public class Main {
 
     public static void main(String[] args) {
-        String inputFilePath = " //Directoryinput ";
-        String outputFilePath = "//Directoryoutput";
+        String inputFilePath = "  ";    //Directoryinput
+        String outputFilePath = " ";    //Directoryoutput
 
         // parse command line arguments
         if (args.length >= 1) {
