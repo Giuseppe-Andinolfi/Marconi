@@ -3,8 +3,8 @@ import java.io.*;
 public class Main {
 
     public static void main(String[] args) {
-        String inputFilePath = "Marconi/src/main/java/input.txt";
-        String outputFilePath = "Marconi/src/main/java/output.txt";
+        String inputFilePath = " //Directoryinput ";
+        String outputFilePath = "//Directoryoutput";
 
         // parse command line arguments
         if (args.length >= 1) {
