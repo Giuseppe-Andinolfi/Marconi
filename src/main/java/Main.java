@@ -3,8 +3,8 @@ import java.io.*;
 public class Main {
 
     public static void main(String[] args) {
-        String inputFilePath = "C:\\Users\\Milan\\OneDrive\\Immagini\\IDEAPROJECTS\\Marconi\\src\\main\\java\\input.txt";
-        String outputFilePath = "";
+        String inputFilePath = "Marconi/src/main/java/input.txt";
+        String outputFilePath = "Marconi/src/main/java/output.txt";
 
         // parse command line arguments
         if (args.length >= 1) {
